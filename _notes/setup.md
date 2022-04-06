@@ -23,7 +23,7 @@ cypress.json
 }
 ```
 
-Add .eslintrc.json to cypress directory
+In VS code, Add .eslintrc.json to cypress directory
 ```
 {
   "extends": [
