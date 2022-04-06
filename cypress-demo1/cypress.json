@@ -1,0 +1,7 @@
+{
+  "ignoreTestFiles": "**/example/*",
+  "baseUrl" : "http://localhost:3721",
+  "wiewportWidth": 1920,
+  "wiewportHeight": 1080
+
+}
