@@ -1,13 +1,18 @@
 ## Cypress
-Install
+- Install
 ```
 npm i -D cypress
+
+yarn add cyress --dev
 ```
 
-Open cypress GUI
+- Open cypress test runner
 ```
 npx cypress open
+
+yarn run cypress open
 ```
+
 This comman will open cypress GUI and create 
 
 cypress/integration/
